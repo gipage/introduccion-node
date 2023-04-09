@@ -8,3 +8,5 @@ const grupo ={
 }
 module.exports = grupo//puedo enviar un objeto con muchos datos!!
 console.log(module);
+/*puedo exportar de manera individual
+module.exports.arreglito = arreglo; */
